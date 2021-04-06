@@ -30,7 +30,7 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "buefy": "^0.9.5"
+    "buefy": "https://github.com/tadams10/buefy.git"
   },
   "devDependencies": {
     "codecov": "^3.1.0",
