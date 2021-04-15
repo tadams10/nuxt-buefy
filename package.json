@@ -43,6 +43,6 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "buefy-tadams": "^1.0.1"
+    "buefy": "npm:buefy-tadams@^1.0.1"
   }
 }
