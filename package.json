@@ -1,11 +1,11 @@
 {
-  "name": "nuxt-buefy",
-  "version": "0.4.5",
+  "name": "nuxt-buefy-tadams",
+  "version": "1.0.0",
   "description": "Nuxt buefy",
   "license": "MIT",
   "contributors": [
     {
-      "name": "Antério Vieira <anteriovieira@gmail.com>"
+      "name": "Antério Vieira <anteriovieira@gmail.com> - forked by tadams9020@gmail.com"
     }
   ],
   "main": "lib/module.js",
@@ -29,9 +29,6 @@
     "testEnvironment": "node",
     "collectCoverage": true
   },
-  "dependencies": {
-    "buefy": "https://github.com/tadams10/buefy.git"
-  },
   "devDependencies": {
     "codecov": "^3.1.0",
     "eslint": "^5.5.0",
@@ -44,5 +41,8 @@
   },
   "engines": {
     "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "buefy-tadams": "^1.0.1"
   }
 }
